@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi devs 👋
 
-Here are some ideas to get you started:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelmesquita07&hide=javascript,css,scss,html&theme=tokyonight)
 
-- 🔭 I’m currently working on SumUp
+- 🔭 I’m currently working on Stone.co
 - 🌱 I’m currently learning SwiftUI last version
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: https://www.linkedin.com/in/israel-mesquita07/
