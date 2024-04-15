@@ -8,4 +8,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/israel-mesquita07/
 - 😄 Pronouns: He/him
 - 🗺️ Languages: Portuguese, Spanish and English
-- ⚡ Fun fact: I love to play tennis 🥎
+- ⚡ Hobby: I love to play tennis 🥎
